@@ -1,4 +1,4 @@
-package com.example.music_collection;
+package com.example.music;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
